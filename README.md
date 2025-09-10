@@ -119,7 +119,7 @@ npm start
 
 ## 📞 Contact
 For any queries, reach out via:
-- Email: your-email@example.com
+- Email: kashishmahajan878@gmail.com
 - GitHub Issues: repository-issues
 
 ---
